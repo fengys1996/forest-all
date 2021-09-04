@@ -41,7 +41,7 @@
 
 #### 其他
 
-1. docker 安装 openwrt 以及实现 fq。
+1. [docker 安装 openwrt 以及实现 fq](other/docker安装openwrt.md)
 
 
 
